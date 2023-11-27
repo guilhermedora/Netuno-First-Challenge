@@ -29,11 +29,11 @@ Escolha a classe para jogar:
 5) Arqueiro [Arco] :white_check_mark:
 6) Cadastre as características físicas do seu avatar, forneça as opções (Cor de cabelo, de pele etc....) :white_check_mark:
 7) A diferença de customização está nas ferramentas de batalhas. :white_check_mark:
-7.1) O paladino escolhe ou a lança ou o escudo; :white_check_mark:
-7.2) O atirador a Arma; :white_check_mark:
-7.3) O Guerreiro a Espada e escudo; :white_check_mark:
-7.4) O bárbaro o machado ou a marreta; :white_check_mark:
-7.5) O arqueiro o Arco; :white_check_mark:
+  * O paladino escolhe ou a lança ou o escudo; :white_check_mark:
+  * O atirador a Arma; :white_check_mark:
+  * O Guerreiro a Espada e escudo; :white_check_mark:
+  * O bárbaro o machado ou a marreta; :white_check_mark:
+  * O arqueiro o Arco; :white_check_mark:
 8) Escolher montaria (Forneça 5 opções de montaria para o usuário [Panda, Cavalo, etc]) :construction: - Não concluído
 9) Distribua pontos para cada atributo das classes e informe o usuário. Exemplo: Paladino Vida: 85, 
 Mana: 35, Velocidade de Ataque: 1.25 :construction: - Não concluído
