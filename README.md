@@ -3,20 +3,20 @@
 
 ### Tela de Cadastro 
 
-Nome completo :white_check_mark:
-Data de nascimento (Deve ter no mínimo 18 anos) :white_check_mark:
-Email :white_check_mark:
-Senha :white_check_mark:
-Confirmar senha (As senhas devem ser validadas e devem ser iguais) :construction: - Não concluído
-Salvar :construction: - Não concluído
-Direciona para a tela de login :white_check_mark:
+1) Nome completo :white_check_mark:
+2) Data de nascimento (Deve ter no mínimo 18 anos) :white_check_mark:
+3) Email :white_check_mark:
+4) Senha :white_check_mark:
+5) Confirmar senha (As senhas devem ser validadas e devem ser iguais) :construction: - Não concluído
+5) Salvar :construction: - Não concluído
+7) Direciona para a tela de login :white_check_mark:
 
 ### Tela de Login
 
-Solicita Email e senha :white_check_mark:
-Valida :construction: - Não concluído
-Caso esteja correta redireciona para a tela do jogo :construction: - Não concluído
-Caso não, informe o erro ao usuário e tente novamente (Se errar a senha 3 vezes encerra o 
+1) Solicita Email e senha :white_check_mark:
+2) Valida :construction: - Não concluído
+3) Caso esteja correta redireciona para a tela do jogo :construction: - Não concluído
+4) Caso não, informe o erro ao usuário e tente novamente (Se errar a senha 3 vezes encerra o 
 programa) :construction: - Não concluído
 
 ### Tela do jogo :white_check_mark:
