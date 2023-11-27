@@ -1,7 +1,7 @@
 # Netuno-First-Challenge
 **Desafio Fasters RPG**
 
-###Tela de Cadastro 
+#Tela de Cadastro 
 Nome completo :white_check_mark:
 Data de nascimento (Deve ter no mínimo 18 anos) :white_check_mark:
 Email :white_check_mark:
@@ -10,7 +10,7 @@ Confirmar senha (As senhas devem ser validadas e devem ser iguais) :construction
 Salvar :construction: - Não concluído
 Direciona para a tela de login :white_check_mark:
 
-###Tela de Login
+#Tela de Login
 Solicita Email e senha :white_check_mark:
 Valida :construction: - Não concluído
 Caso esteja correta redireciona para a tela do jogo :construction: - Não concluído
