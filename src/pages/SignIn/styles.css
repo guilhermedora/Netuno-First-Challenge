@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Risque&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@200;400;500&display=swap');
+
+#email,
+#password,
+#cpassword,
+#name,
+#day,
+#month,
+#year {
+    font-family: 'Risque', serif;
+    padding-top: 0 !important;
+    color: #ffff7b !important;
+    text-align: center;
+    font-size: larger;
+}
+
+#labels {
+    font-size: 50px;
+    font-family: 'Grenze Gotisch', serif;
+    -webkit-text-stroke: 0.0001px black
+}

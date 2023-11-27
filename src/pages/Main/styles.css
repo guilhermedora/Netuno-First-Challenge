@@ -1,0 +1,28 @@
+.MuiTabs-indicator {
+    height: 7px !important;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: white !important
+}
+
+#hair-color-label,
+#skin-color-label,
+#eye-color-label,
+#body-type-label,
+#race-label {
+    color: #ffffff;
+    background: #95858594;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+#hair-color,
+#skin-color,
+#eye-color,
+#body-type,
+#race {
+    width: 100px;
+    color: #ffff7bc9;
+    background: radial-gradient(#aa0000b3, transparent);
+    text-align: center;
+}
