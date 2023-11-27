@@ -1,7 +1,7 @@
 # Netuno-First-Challenge
 **Desafio Fasters RPG**
 
-    **Tela de Cadastro** :white_check_mark:
+    @@Tela de Cadastro@@ :white_check_mark:
 Nome completo
 Data de nascimento (Deve ter no mínimo 18 anos)
 Email
@@ -10,14 +10,14 @@ Confirmar senha (As senhas devem ser validadas e devem ser iguais) :construction
 Salvar :construction: - Não concluído
 Direciona para a tela de login
 
-    **Tela de Login** :white_check_mark:
+    @@Tela de Login@@ :white_check_mark:
 Solicita Email e senha
 Valida :construction: - Não concluído
 Caso esteja correta redireciona para a tela do jogo :construction: - Não concluído
 Caso não, informe o erro ao usuário e tente novamente (Se errar a senha 3 vezes encerra o 
 programa) :construction: - Não concluído
 
-    **Tela do jogo** :white_check_mark:
+    @@Tela do jogo@@ :white_check_mark:
 Escolha a classe para jogar:
 1) Paladino [lança e escudo]
 2) Atirador [Arma]
