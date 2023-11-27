@@ -4,7 +4,7 @@
 ### Tela de Cadastro :sparkles:
 
 1) Nome completo :white_check_mark:
-2) Data de nascimento (Deve ter no mínimo 18 anos) :white_check_mark:
+2) Data de nascimento (Deve ter no mínimo 18 anos) :construction: - Não concluído
 3) Email :white_check_mark:
 4) Senha :white_check_mark:
 5) Confirmar senha (As senhas devem ser validadas e devem ser iguais) :construction: - Não concluído
