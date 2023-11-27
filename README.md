@@ -5,9 +5,9 @@
     Para emular o código basta inicia o VScode na pasta principal "./Netuno-FirstChallenge". Utilize o comando "Yarn", que atualizará as bibliotecas do código. Em seguida, digite no terminal "yarn start" e aperte "Enter" para rodar código no seu navegador padrão. 
 
     Qual foi minha experiência em relação ao desafio?
-    Bem, achei bastante divertido! O gênero RPG é um dos meus preferidos e os insights que tive no processo criativo me levaram a ter um apego a este projeto. Apesar de não ter finalizado em 100% todos os pontos do desafio, vou continuar até finaliza-lo e aperfeiçoa-lo     em termos que código e design.
+    Bem, achei bastante divertido! O gênero RPG é um dos meus preferidos e os insights que tive no processo criativo me levaram a ter um apego a este projeto. Apesar de não ter finalizado em 100% todos os pontos do desafio, vou continuar até finaliza-lo e aperfeiçoa-lo em termos que código e design.
 
-    O jogo se chama "Hunter - Hangire Gotish" se passa em um período medieval em que os Vampiros tentam controlar os humanos por meio de forças místicas do mal. Para combater o maior deles o "Gotish" um héroi precisa surgir e com suas capacidades de combate deve            enfrentar a floresta que proteje o castelo do nosso vilão e caro acabar com todos os monstros!
+    O jogo se chama "Hunter - Hangire Gotish" se passa em um período medieval em que os Vampiros tentam controlar os humanos por meio de forças místicas do mal. Para combater o maior deles o "Gotish" um héroi precisa surgir e com suas capacidades de combate deve enfrentar a floresta que proteje o castelo do nosso vilão e caro acabar com todos os monstros!
 
 ### Tela de Cadastro :sparkles:
 
